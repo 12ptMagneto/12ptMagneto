@@ -1,0 +1,24 @@
+B4 2C        MOV AH,2C       Get the clock
+CD 21        INT 21          execute
+B0 46        MOV AL,46       Get the seconds
+F6 EE        IMUL DH         multiply the DH by the seconds   
+05 20 01     ADD AX, 0120    add 120 to that
+89 C2        MOV DX,AX       put that number in the DX register
+B4 09        MOV AH,09       display to screen
+CD 21        INT 21          execute
+BA 18 01     MOV DX, 0118    end of line
+CD 21        INT 21          execute
+CD 20        INT 20          quit
+Beam me up, Scotty: there's no intelligent life down here $
+8 + 8 = 10 $
+4 + 4 = 10 $
+5 + 5 = 0Ah $
+5 + 5 = &12 $
+Daisy, Daisy, gove  m   y  r   ans er  ru  $
+Hello, Dave, it's good to be working with you again! $
+TRON to user: Send me a disk. $  
+In the beginning was the Word $    
+If A is A, how can X = X + 1? $ 
+A program is a selective recreation of reality...$   
+... according to the psycho-epistemology of the programmer$ 
+I am alive and I have rights!$  
