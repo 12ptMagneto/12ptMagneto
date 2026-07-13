@@ -10,7 +10,7 @@ Successive volumes will be ebooks priced by the number of stories in each.
 - In astronomy, I edited for the History of Astronomy Division of the American Astronomical Society.
 - For my local city library, I served on the citizens advisory board.
 
-- My degrees are in criminology and in addition to working in protective services, I volunteer at
+- 👀 My degrees are in criminology and in addition to working in protective services, I volunteer at
 - the Austin computer security conferences, BSides and LASCON.
 
 - 📫 How to reach me uszik11@gmail.com 
