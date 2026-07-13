@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @12ptMagneto
 - In real life I am a technical writer.
-- 👀 I’m interested in astronomy and libraries.
-- In astronomy, I edit for the History of Astronomy Division of the American Astronomical Society.
+Everyone "likes" science fiction. I am publishing an anthology of Flash Fiction, stories under 1000 words.
+The theme is "Austin 2078." I met most of the writers through the ArmadilloCon science fiction literary convention in Austin.
+Volume 1 came out in March 2026. Volume 2 will be out in March 2027. 
+Volume 1 is free to read here - https://austin2078.blogspot.com
+Successive volumes will be ebooks priced by the number of stories in each.
+
+- 👀 I am also interested in astronomy and libraries.
+- In astronomy, I edited for the History of Astronomy Division of the American Astronomical Society.
 - For my local city library, I served on the citizens advisory board.
-- 🌱 I’m currently learning GitHub.
-- 💞️ I’m looking to collaborate on documentation standards and practices.
+
 - 📫 How to reach me uszik11@gmail.com 
 - or books78640@gmail.com which I created for a library project to loan telescopes to patrons.
 
